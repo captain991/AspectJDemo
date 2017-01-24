@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AspectJDemo</string>
+    <string name="permission_rationale">我们需要xx权限才能更好的为您提供服务</string>
+</resources>
